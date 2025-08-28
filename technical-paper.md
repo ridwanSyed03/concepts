@@ -48,4 +48,3 @@ The final choice should depend on the project’s specific requirements and work
 * [Cassandra Basics - Apache Cassandra](https://cassandra.apache.org/_/cassandra-basics.html)
 * [Why NoSQL? - Couchbase](https://www.couchbase.com/resources/why-nosql/)
 * [Neo4j Graph Database](https://neo4j.com/)
-* [Mastering Markdown - GitHub Guides](https://guides.github.com/features/mastering-markdown/)
